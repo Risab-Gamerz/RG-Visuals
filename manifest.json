@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§cRG Visuals",
+    "description": "High-fidelity lighting, shadows, and PBR visuals for a next-gen Minecraft experience",
+    "uuid": "d4b7f6b1-6c2e-4c8a-9a7e-1f3a9e2b41a6",
+    "version": [ 1, 2, 0 ],
+    "min_engine_version": [ 1, 20, 20 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "RG Visuals graphics resource pack",
+      "uuid": "9f2c1a88-3a91-4b0e-bf4e-5c6c8c0c2d91",
+      "version": [ 1, 2, 0 ]
+    }
+  ],
+  "capabilities": [
+    "pbr"
+  ]
+}
